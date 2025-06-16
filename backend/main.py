@@ -29,7 +29,7 @@ class HeartRateReading(BaseModel):
 arduino_serial = None
 arduino_connected = False
 
-GOOGLE_API_KEY = 'AIzaSyA6_Ch43vOdlVaXfZvR8FqjaPCYpgNVVHk'
+GOOGLE_API_KEY = ''
 genai.configure(api_key=GOOGLE_API_KEY)
 
 app = FastAPI()

@@ -1,0 +1,5 @@
+fastapi
+google-generativeai
+serial
+pyserial
+python-multipart

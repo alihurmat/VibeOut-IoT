@@ -6,6 +6,7 @@
 
 > ## 📱 **A real-time emotion-aware fitness platform that syncs your mind and body.**
 
+
 ## 💡 Concept
 
 VibeOut is not just another fitness app—it's your **emotional fitness companion**. Traditional apps focus solely on physical metrics like steps and calories, but VibeOut adds the critical missing layer: **emotional intelligence** combined with **IoT-powered biometrics**.
@@ -16,10 +17,14 @@ By integrating cutting-edge AI-driven emotion recognition with IoT-based vitals 
   <img src="./iot_ss/iotsetup.png" alt="IoT Setup" width="600">
 </p>
 
+<p align="center">
+  <img src="./iot_ss/iotproject.png" alt="Architecture Diagram" width="700">
+</p>
+
 ## 🏗️ Architecture Overview
 
 <p align="center">
-  <img src="./iot_ss/iotproject.png" alt="Architecture Diagram" width="700">
+  <img src="./iot_ss/architecture.png" alt="Architecture Diagram" width="700">
 </p>
 
 Our architecture integrates emotion detection AI with ESP32-based IoT sensors to create a full-stack wellness solution:
@@ -154,7 +159,7 @@ The heart of our innovation is the IoT integration that provides real-time healt
 
 ### Prerequisites
 - Node.js & npm
-- Python 3.10+
+- Python 3.8+
 - ESP32 with MAX30102 sensor
 - Arduino IDE
 
@@ -162,7 +167,7 @@ The heart of our innovation is the IoT integration that provides real-time healt
 
 ```bash
 # Clone repository
-git clone https://github.com/madboy482/VibeOut_IoT.git
+git clone https://github.com/your-username/vibeout-iot.git
 
 # Install backend dependencies
 cd backend

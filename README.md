@@ -167,7 +167,7 @@ The heart of our innovation is the IoT integration that provides real-time healt
 
 ```bash
 # Clone repository
-git clone https://github.com/your-username/vibeout-iot.git
+git clone https://github.com/madboy482/VibeOut-IoT.git
 
 # Install backend dependencies
 cd backend
@@ -184,3 +184,7 @@ npm start
 ## 💪 Join the VibeOut Revolution
 
 Because your workout should understand not just what you do, but how you feel.
+
+## 📜 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

@@ -18,7 +18,7 @@ By integrating cutting-edge AI-driven emotion recognition with IoT-based vitals 
 </p>
 
 <p align="center">
-  <img src="./iot_ss/iotproject.png" alt="Architecture Diagram" width="700">
+  <img src="./iot_ss/iotproject.png" alt="IoT" width="600">
 </p>
 
 ## 🏗️ Architecture Overview
